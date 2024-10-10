@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 @Owner("Anuar Zhangeldi")
 @DisplayName("Check the Issue element via Web Steps Approach")
 
-public class StepTests extends TestBase{
+public class StepTest extends TestBase{
     final String repository = "qa-guru/qa_guru_14_10";
     final String issue = "Issue for Autotest";
 

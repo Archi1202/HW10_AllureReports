@@ -14,7 +14,7 @@ import static com.codeborne.selenide.Selenide.open;
 @Owner("Anuar Zhangeldi")
 @DisplayName("Check the Issue element via Selenide approach")
 
-public class SelenideTests extends TestBase {
+public class SelenideTest extends TestBase {
 
     private static final String repository = "qa-guru/qa_guru_14_10";
     private static final String issueText = "Issue for Autotest";
