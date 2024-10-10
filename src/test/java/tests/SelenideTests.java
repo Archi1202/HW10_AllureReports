@@ -12,7 +12,7 @@ import static com.codeborne.selenide.Selenide.open;
 
 @Feature("Issue elements")
 @Owner("Anuar Zhangeldi")
-@DisplayName("Check the Issue element via different test approaches")
+@DisplayName("Check the Issue element via Selenide approach")
 
 public class SelenideTests extends TestBase {
 
